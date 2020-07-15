@@ -98,6 +98,7 @@ h1 a:hover::before {
 
 body {
 width: 90%;
+padding-left: 5%;
 overflow: auto;
 background-color: rgb(204, 229, 255);
 color: rgb(58, 58, 58);
