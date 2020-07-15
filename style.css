@@ -116,6 +116,13 @@ padding-left: 5%;
 padding-bottom: 20px;
 
 }
+table {
+	border-style: ridge;
+        border-width: 150px;
+        border-color: #8ebf42;
+        background-color: #d9d9d9;
+}
+	
 .quiz {
 	padding-bottom: 20px;
 }
